@@ -7,6 +7,14 @@ bem_electrostatics
 
 First cookiecutter try on Stefan's repository.
 
+Installation:
+
+```
+git clone https://github.com/kstylesc/bem_electrostatics.git
+cd bem_electrostatics
+pip install .
+```
+
 ### Copyright
 
 Copyright (c) 2021, Stefan Search
